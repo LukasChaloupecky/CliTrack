@@ -43,7 +43,7 @@ available.
 Clone the repository and make the script executable:
 
 ``` bash
-git clone <your-repository-url>
+git clone "https://github.com/LukasChaloupecky/CliTrack.git"
 cd clitrack
 
 chmod +x clitrack.sh
