@@ -550,11 +550,3 @@ After installation, it can be exposed as:
 ``` text
 ~/.local/bin/clitrack
 ```
-
-## License
-
-Add your preferred license here, for example MIT, Apache-2.0, or
-GPL-3.0.
-
-If this project is already licensed, replace this section with the
-corresponding license text or a link to the repository's `LICENSE` file.
